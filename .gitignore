@@ -1,6 +1,8 @@
 # Virtual Environment
 venv/
-env/
+myenv/
 .venv/
-.env/
-
+.myenv/
+Attendance/
+.vscode/
+static/
