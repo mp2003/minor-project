@@ -1,3 +1,7 @@
+# pip install Flask opencv-python-headless scikit-learn pandas numpy
+
+
+
 import cv2
 import os
 from flask import Flask,request,render_template
