@@ -1,8 +1,6 @@
-# Ignore virtual environment folders
+# Virtual Environment
 venv/
 env/
-myenv/bin/
-myenv/include/
-myenv/lib/  
-myenv/lib64/
-myenv/
+.venv/
+.env/
+
