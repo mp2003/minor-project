@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/media/mahi-5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/face-recognition-based-attendance-system/myenv"
+setenv VIRTUAL_ENV "/media/mahi5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/realtime Deep Learning/myenv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

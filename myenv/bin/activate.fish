@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/media/mahi-5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/face-recognition-based-attendance-system/myenv"
+set -gx VIRTUAL_ENV "/media/mahi5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/realtime Deep Learning/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

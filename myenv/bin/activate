@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/mahi-5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/face-recognition-based-attendance-system/myenv"
+VIRTUAL_ENV="/media/mahi5256/a0e830ba-234f-4452-866b-319a5b74ce7f/javascipt/realtime Deep Learning/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
